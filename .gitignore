@@ -4,3 +4,6 @@ package-lock.json
 
 # git
 ..gitignore.swp
+
+# Webpack
+dist/
